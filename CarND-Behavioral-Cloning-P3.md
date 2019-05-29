@@ -20,8 +20,8 @@ My project includes the following files:
 * The [`CarND-Behavioral-Cloning-P3.md`](CarND-Behavioral-Cloning-P3.md). Report writeup file.
 * The [`drive.py`](drive.py). Script to drive the car in autonomous mode.
 * The [`behavioral_model.h5`](model/behavioral_model.h5). This file contains a trained convolution neural network. 
-* The [`Video1.mp4`](Track1.mp4). Video with autonomous driving over track 1.
-* The [`Video2.mp4`](Track2.mp4). Video with autonomous driving over track 2.
+* The [`Video1.mp4`](https://www.youtube.com/watch?v=0tKBAcesLKE). Video with autonomous driving over track 1.
+* The [`Video2.mp4`](https://www.youtube.com/watch?v=Hh3IxNDhHhw). Video with autonomous driving over track 2.
 
 #### 2. Submission Includes Functional Code
 Using the Udacity provided [simulator](https://github.com/udacity/self-driving-car-sim) and my `drive.py` file, the car can be driven autonomously around the track by executing:

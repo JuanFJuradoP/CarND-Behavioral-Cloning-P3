@@ -19,8 +19,8 @@ To meet specifications, The following files are attached in this repository:
 * [CarND-Behavioral-Cloning-P3.md](CarND-Behavioral-Cloning-P3.md). Report writeup file.
 * [drive.py](drive.py). Script to drive the car.
 * [model.h5](model/behavioral_model.h5). The Keras model trained.
-* [video 1](Track1.mp4). The video show the vehicle driving autonomously around the track 1 for at least one full lap.
-* [video 2](Track2.mp4). The video show the vehicle driving autonomously around the track 2 for at least one full lap.
+* [video 1](https://www.youtube.com/watch?v=0tKBAcesLKE). The video show the vehicle driving autonomously around the track 1 for at least one full lap.
+* [video 2](https://www.youtube.com/watch?v=Hh3IxNDhHhw). The video show the vehicle driving autonomously around the track 2 for at least one full lap.
 
 Creating a Great Writeup
 ---
